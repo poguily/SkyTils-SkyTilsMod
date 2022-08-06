@@ -1,14 +1,23 @@
 # SkyTils-SkyTilsMod
 
 A Hypixel Skyblock Utilities mod.
+
 Features
+
 General
+
 Dungeons
+
 Farming
+
 Mining
+
 Items
+
 Slayers
+
 Miscellaneous
+
 And more to come!
 
 Commands
